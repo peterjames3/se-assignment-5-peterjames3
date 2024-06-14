@@ -13,9 +13,10 @@ Answer the following questions based on your understanding of the installation a
 When I first set out to download and install Visual Studio Code on Windows 11, I was struck by the simplicity of the process (bin, 2022). 
 
 #### Process
-    1. [Download the VS Code file from the offical website](https://code.visualstudio.com/)
+ - ![Once the download is complete. Open the file and accept the agreement](images/Accept-License.png)
+    1.![Download the VS Code file from the offical website](https://code.visualstudio.com/)
     2.Download process will start
-    3.Once the download is complete. Open the file and accept the agreement. ![wizard](images/4--Accept-License.png)
+    3.![Once the download is complete. Open the file and accept the agreement](images/Accept-License.png)
     4. Select the drive location where you need to install the VS Code ![Path](images/path.webp)
     5.Select the folder name for the vs Code setups files. ![select start menu folder](images/start-menu-folder.webp)
     6.Select the additional task, you want to do by the installer. I wanted to have "Open with Code" added to both the File and Directory content menu, hence I selected those.![select additional Tasks](images/select-add.webp)
